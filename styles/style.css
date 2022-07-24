@@ -120,6 +120,11 @@ div.card {
 
 .card-text {
     display: inline-block;
+    transition: 0.5s;
+}
+
+.card-text:hover {
+    transform: scale(1.5);
 }
 
 .card:nth-last-child(1) {
