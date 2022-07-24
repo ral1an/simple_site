@@ -168,6 +168,10 @@ img {
     margin: auto;
 }
 
+.text-content:hover {
+    text-decoration: underline;
+}
+
 iframe {
     border: 0px;
     width: 100%;
